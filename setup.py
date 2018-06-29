@@ -1,10 +1,10 @@
 import sys, os
 import setuptools
 
-version = '0.7.0'
+version = '1.0.0'
 
 setuptools.setup(
-    name='python-whois',
+    name='python-whois-hivelocity',
     version=version,
     description="Whois querying and parsing of domain registration information.",
     long_description='',
